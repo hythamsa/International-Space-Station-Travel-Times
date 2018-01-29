@@ -8,3 +8,6 @@ https://developers.google.com/maps/documentation/geocoding/get-api-key
 
 
 Once obtained you will need to modify they key value in the parameters variable within the def GetLatLng().
+
+
+Code clean-up to come (this was my very first piece of code written... )
